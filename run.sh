@@ -1,2 +1,1 @@
-echo 'Helo from run.sh!'
-echo 'Hello too"
+echo 'Hello from run.sh!'
